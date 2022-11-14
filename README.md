@@ -40,5 +40,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://tver.hh.ru/resume/f339c48dff089a7f150039ed1f6e5746413631">
     <img src="https://user-images.githubusercontent.com/75541723/201655428-9969ef66-f515-4583-95f8-4d8d9ce1ad2f.png" alt="HeadHunter Badge" width="50"/>
   <a/.>
+    
+  <a href="www.linkedin.com/in/syntax-dot-74112b257">
+    <img src="https://user-images.githubusercontent.com/75541723/201722117-d806fb9e-0be9-4782-8129-541915bc4254.svg" alt="LinkedIn Badge" width="50"/>
+  <a/.>
+
 <div/>
 
