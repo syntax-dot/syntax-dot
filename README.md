@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://user-images.githubusercontent.com/75541723/201655428-9969ef66-f515-4583-95f8-4d8d9ce1ad2f.png" alt="HeadHunter Badge" width="50"/>
   <a/.>
     
-  <a href="www.linkedin.com/in/syntax-dot-74112b257">
+  <a href="https://www.linkedin.com/in/syntax-dot-74112b257/">
     <img src="https://user-images.githubusercontent.com/75541723/201722117-d806fb9e-0be9-4782-8129-541915bc4254.svg" alt="LinkedIn Badge" width="50"/>
   <a/.>
 
