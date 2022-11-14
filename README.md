@@ -32,13 +32,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://t.me/SYNTAXNAME">
     <img src="https://user-images.githubusercontent.com/75541723/201656769-f0f3d527-64df-4580-ad0d-86693a65b951.svg" alt="Telegram Badge" width="50"/>
   <a/.>
-
-  <a href="https://tver.hh.ru/resume/f339c48dff089a7f150039ed1f6e5746413631">
-    <img src="https://user-images.githubusercontent.com/75541723/201655428-9969ef66-f515-4583-95f8-4d8d9ce1ad2f.png" alt="HeadHunter Badge" width="50"/>
-  <a/.>
   
   <a href="https://discordapp.com/users/Shkurolog#2381/ ">
     <img src="https://user-images.githubusercontent.com/75541723/201657580-63eeafd6-5965-4e67-aa97-98d58854edd1.svg" alt="Discord Badge" width="50"/>
+  <a/.>
+    
+  <a href="https://tver.hh.ru/resume/f339c48dff089a7f150039ed1f6e5746413631">
+    <img src="https://user-images.githubusercontent.com/75541723/201655428-9969ef66-f515-4583-95f8-4d8d9ce1ad2f.png" alt="HeadHunter Badge" width="50"/>
   <a/.>
 <div/>
 
