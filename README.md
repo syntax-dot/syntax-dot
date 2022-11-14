@@ -10,7 +10,9 @@
 </h1>
 
 ## :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> from Russia.
+I am a Junior Full Stack Developer
+<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 ## :hammer_and_wrench: Languages and Tools :
 ### LANGUAGES <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="40px"/>
