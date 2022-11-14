@@ -14,14 +14,14 @@ I am a Junior Full Stack Developer
 <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-## :hammer_and_wrench: Languages and Tools :
-### LANGUAGES <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="40px"/>
+# :hammer_and_wrench: Languages and Tools :
+##  LANGUAGES <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,python)](https://skillicons.dev)
-### FRONTEND <img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" width="40px"/>
+## FRONTEND <img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css)](https://skillicons.dev)
-### BACKEND <img src="https://media.giphy.com/media/qlDjRipF0GwezDW2sV/giphy.gif" width="40px"/>
+## BACKEND <img src="https://media.giphy.com/media/qlDjRipF0GwezDW2sV/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,prisma,docker)](https://skillicons.dev)
-### OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
+## OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack)](https://skillicons.dev)
 
 ## :fire: My Stats :
