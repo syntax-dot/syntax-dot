@@ -10,16 +10,16 @@
 </h1>
 
 ## :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> from Russia.
 
 ## :hammer_and_wrench: Languages and Tools :
-### LANGUAGES
+### LANGUAGES <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,python)](https://skillicons.dev)
-### FRONTEND
+### FRONTEND <img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css)](https://skillicons.dev)
-### BACKEND
+### BACKEND <img src="https://media.giphy.com/media/tgxLZoDHP1H4minqxT/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,prisma,docker)](https://skillicons.dev)
-### OTHER
+### OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack)](https://skillicons.dev)
 
 ## :fire: My Stats :
