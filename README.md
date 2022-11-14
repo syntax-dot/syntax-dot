@@ -8,10 +8,12 @@
   <a/.
   
   <a href="https://tver.hh.ru/resume/f339c48dff089a7f150039ed1f6e5746413631">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="HHBadge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge" alt="HeadHunter Badge"/>
   <a/.>
   
-  <img src="https://komarev.com/ghpvc/?username=syntax-dot&style=for-the-badge&color=blue" alt=""/>
+  <a href="https://discordapp.com/users/Shkurolog#2381/ ">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="HeadHunter Badge"/>
+  <a/.>
   
   <h1>
   hey there
@@ -19,17 +21,17 @@
 </h1>
 <div/>
 
-<!-- GitHub Stats -- >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syntax-dot&theme=dark&show_icons=true)
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-<details>
-<summary>More Skills</summary>
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-...
-</details>
+### :hammer_and_wrench: Languages and Tools :
+<div id="Skills">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" **alt="Vue" width="40" height="40"/>
+
+<div/>
 
 
 <!--
