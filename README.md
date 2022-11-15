@@ -22,7 +22,7 @@ I am a Junior Full Stack Developer
 ## BACKEND <img src="https://media.giphy.com/media/qlDjRipF0GwezDW2sV/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,prisma,docker)](https://skillicons.dev)
 ## OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
-[![My Skills](https://skillicons.dev/icons?i=vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,webpack,githubactions)](https://skillicons.dev)
 
 ## :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syntax-dot&show_icons=true&theme=dark)
