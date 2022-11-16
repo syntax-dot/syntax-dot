@@ -41,7 +41,7 @@ I am a Junior Full Stack Developer
     
 <div/>
 
-## :point_down: Resume : 
+## :point_down: Resume|CV : 
 <div id="Resume">
 
   <img src="https://media.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif" alt="Resume" width="200"/> 
