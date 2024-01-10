@@ -10,7 +10,7 @@
 </h1>
 
 ## :man_technologist: About Me :
-I am a Junior Full Stack Developer
+I am a Frontend Developer
 <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
