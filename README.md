@@ -24,11 +24,6 @@ I am a Frontend Developer
 ## OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack,githubactions)](https://skillicons.dev)
 
-## :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syntax-dot&show_icons=true&theme=dark)
-  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntax-dot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## :information_source: Contacts :
 <div id="Badge">
   <a href="https://t.me/SYNTAXNAME">
