@@ -18,7 +18,7 @@ I am a Frontend Developer
 ##  LANGUAGES <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,python)](https://skillicons.dev)
 ## FRONTEND <img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" width="40px"/>
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,html,css,sass,quasar)](https://skillicons.dev)
 ## BACKEND <img src="https://media.giphy.com/media/qlDjRipF0GwezDW2sV/giphy.gif" width="40px"/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,prisma,docker)](https://skillicons.dev)
 ## OTHER <img src="https://media.giphy.com/media/xbOgcm8b2F1dWVD3Zv/giphy.gif" width="40px"/>
